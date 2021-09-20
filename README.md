@@ -15,12 +15,12 @@ Di dalam kolom review High n Jar terdapat :
 - Nilai Produk(dalam bentuk persentase)
 
 Berikut daftar Beauty vlogger terpercaya kami yang akan membagikan pengalaman mereka:
-- Tasya Farasya
-- Indira Khalista
-- Suhay Salim
-- Nanda Arsyinta
-- Niki Tutorial
-- Tati
-- James Charles
-- Jeffry Star
+- Tasya Farasya.
+- Indira Khalista.
+- Suhay Salim.
+- Nanda Arsyinta.
+- Niki Tutorial.
+- Tati.
+- James Charles.
+- Jeffry Star.
 
